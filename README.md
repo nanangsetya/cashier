@@ -10,8 +10,9 @@
 
 # Technology
 - Laravel 10
-- Livewire 3
-- Intervention Image v3
+- [Livewire 3](https://livewire.laravel.com/docs/quickstart)
+- [Intervention Image v3](https://image.intervention.io/v3)
+- [darryldecode/laravelshoppingcart](https://github.com/darryldecode/laravelshoppingcart)
 
 # Contact me
 📧 nsbbusiness01@gmail.com
