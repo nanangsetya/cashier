@@ -24,6 +24,6 @@ class Auth extends Component
         if (FacadesAuth::attempt(['username' => $this->username, 'password' => $this->password])) {
             return redirect('cart');
         }
-        session()->flash('failed', 'Post successfully updated.');
+        session()->flash('failed', 'Login failed.');
     }
 }
