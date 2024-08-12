@@ -2,7 +2,7 @@
 ℹ️ Sistem cashier berbasis website. Aplikasi ini memiliki menu kasir, menu manajemen produk yang dijual dan menu dashboard untuk meilhat statistik penjualan.
 
 # Demo
-🕸️ Link demo :
+🕸️ Link demo : [demo link](https://cashier.pieceofsite.com)
 
 # Akun 
 - username : admin
